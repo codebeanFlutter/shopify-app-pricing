@@ -1,6 +1,6 @@
 {
   "source": "https://apps.shopify.com/partners/codebeans-private-limited3",
-  "updatedAt": "2026-10-10T05:32:59+00:00",
+  "updatedAt": "2026-10-10T06:33:56+00:00",
   "appCount": 18,
   "apps": [
     {
@@ -798,7 +798,7 @@
     {
       "slug": "notifylyst",
       "url": "https://apps.shopify.com/notifylyst",
-      "name": "CB Notifylyst ",
+      "name": "CB Notifylyst",
       "rating": null,
       "reviewCount": 0,
       "currency": "USD",
@@ -1260,7 +1260,7 @@
     {
       "slug": "shopy-payment-rules",
       "url": "https://apps.shopify.com/shopy-payment-rules",
-      "name": " Codebeans Payment Rules",
+      "name": "Codebeans Payment Rules",
       "rating": null,
       "reviewCount": 0,
       "currency": "USD",

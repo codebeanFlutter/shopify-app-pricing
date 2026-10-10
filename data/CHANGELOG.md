@@ -1,5 +1,10 @@
 # Pricing changes
 
+## 2026-10-10T06:33:56+00:00
+
+- CB Notifylyst: name CB Notifylyst  -> CB Notifylyst
+- Codebeans Payment Rules: name  Codebeans Payment Rules -> Codebeans Payment Rules
+
 ## 2026-10-10T05:31:20+00:00
 
 - New app: Codebeans Form Builder Pro (5 plans)

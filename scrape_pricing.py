@@ -138,7 +138,7 @@ def parse_app(slug, page):
 
     ld = re.search(r'<script type="application/ld\+json">(.*?)</script>', page, re.S)
     meta = json.loads(ld.group(1)) if ld else {}
-    app["name"] = meta.get("name") or slug
+    app["name"] = " ".join((meta.get("name") or "").split()) or slug
     rating = meta.get("aggregateRating") or {}
     app["rating"] = rating.get("ratingValue")
     app["reviewCount"] = rating.get("ratingCount", 0)
