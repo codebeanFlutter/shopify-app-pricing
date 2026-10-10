@@ -21,14 +21,27 @@ jobs:
       - name: Scrape pricing
         run: python scrape_pricing.py
 
-      - name: Commit if changed
+      # Commits when prices changed, when the check failed, or when the last commit is
+      # older than ~7 days. The weekly commit keeps the repo active, so GitHub never
+      # pauses the schedule for inactivity (it does that after 60 days).
+      # Runs even when the scrape failed, so last-run.json records the failure.
+      - name: Commit results
+        if: always()
         run: |
-          if git diff --quiet -- data/; then
-            echo "No pricing changes."
+          today=$(date -u +%Y-%m-%d)
+          last_commit_age=$(( $(date +%s) - $(git log -1 --format=%ct) ))
+          if ! git diff --quiet -- data/pricing.json; then
+            message="chore: update app pricing $today"
+          elif grep -q '"status": "failed"' data/last-run.json; then
+            message="chore: pricing check failed $today"
+          elif [ "$last_commit_age" -ge 561600 ]; then # 6.5 days, absorbs schedule jitter
+            message="chore: weekly pricing check, no changes $today"
+          else
+            echo "No pricing changes; last commit is recent, skipping commit."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
           git add data/
-          git commit -m "chore: update app pricing $(date -u +%Y-%m-%d)"
+          git diff --cached --quiet || git commit -m "$message"
           git push

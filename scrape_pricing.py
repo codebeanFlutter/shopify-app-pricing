@@ -3,10 +3,11 @@
 
 Reads the partner page, visits each app listing, and writes data/pricing.json.
 The file is only rewritten when something actually changed, and each change is
-appended to data/CHANGELOG.md, so a daily run produces a clean git history.
+appended to data/CHANGELOG.md. data/last-run.json is written on every run with
+the time and outcome of the check.
 
 Standard library only. Exit code is 0 on success, 1 on any failure (in which
-case nothing is written and the previous JSON stays as it was).
+case only last-run.json is written and the previous pricing JSON stays as it was).
 """
 
 import argparse
@@ -200,12 +201,21 @@ def describe_changes(old_apps, new_apps):
 
 # --------------------------------------------------------------------------- main
 
+def write_last_run(path, info):
+    """Written on every run, so the daily commit keeps the repo active and shows the last check."""
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(info, indent=2) + "\n", encoding="utf-8")
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     parser.add_argument("--partner", default=DEFAULT_PARTNER, help="partner page URL")
     parser.add_argument("--out", type=Path, default=DEFAULT_OUT, help="output JSON path")
     parser.add_argument("--force", action="store_true", help="rewrite the JSON even if nothing changed")
     args = parser.parse_args()
+
+    run_at = datetime.now(timezone.utc).replace(microsecond=0).isoformat()
+    last_run_path = args.out.parent / "last-run.json"
 
     try:
         slugs = parse_partner_apps(fetch(args.partner))
@@ -217,7 +227,8 @@ def main():
             print(f"  {slug}: {len(app['plans'])} plans")
             apps.append(app)
     except ScrapeError as e:
-        print(f"ERROR: {e}. Nothing was written.", file=sys.stderr)
+        print(f"ERROR: {e}. Pricing data was not touched.", file=sys.stderr)
+        write_last_run(last_run_path, {"lastRunAt": run_at, "status": "failed", "error": str(e)})
         return 1
 
     previous = {}
@@ -225,11 +236,21 @@ def main():
         previous = json.loads(args.out.read_text(encoding="utf-8"))
     changes = describe_changes(previous.get("apps", []), apps)
 
+    write_last_run(last_run_path, {
+        "lastRunAt": run_at,
+        "status": "success",
+        "appCount": len(apps),
+        "planCount": sum(len(a["plans"]) for a in apps),
+        "changed": bool(changes),
+        "changeCount": len(changes),
+        "dataUpdatedAt": run_at if changes or args.force else previous.get("updatedAt"),
+    })
+
     if not changes and not args.force:
         print("No changes since last run.")
         return 0
 
-    now = datetime.now(timezone.utc).replace(microsecond=0).isoformat()
+    now = run_at
     data = {
         "source": args.partner,
         "updatedAt": now,
