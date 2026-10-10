@@ -1,0 +1,1386 @@
+{
+  "source": "https://apps.shopify.com/partners/codebeans-private-limited3",
+  "updatedAt": "2026-10-10T05:32:59+00:00",
+  "appCount": 18,
+  "apps": [
+    {
+      "slug": "cb-advance-form-builder",
+      "url": "https://apps.shopify.com/cb-advance-form-builder",
+      "name": "Codebeans Form Builder Pro",
+      "rating": 5.0,
+      "reviewCount": 1,
+      "currency": "USD",
+      "plans": [
+        {
+          "name": "Free",
+          "priceText": "Free",
+          "price": 0,
+          "interval": null,
+          "features": [
+            "Display form anywhere",
+            "1 form included",
+            "Up to 6 fields",
+            "50 submissions per month",
+            "Google reCAPTCHA protection",
+            "Built-in ticketing system",
+            "Form submission controls & restrictions"
+          ],
+          "trial": null,
+          "trialDays": 0
+        },
+        {
+          "name": "Basic",
+          "priceText": "$8.99",
+          "price": 8.99,
+          "interval": "month",
+          "features": [
+            "Includes all FREE plan features",
+            "Unlimited forms",
+            "Unlimited fields per form",
+            "Up to 1,000 submissions per month",
+            "Conditional logic fields",
+            "Multi-language support",
+            "Multi-step (wizard-style) forms",
+            "Shopify Flow integration"
+          ],
+          "trial": "3-day free trial",
+          "trialDays": 3
+        },
+        {
+          "name": "Advanced",
+          "priceText": "$18.99",
+          "price": 18.99,
+          "interval": "month",
+          "features": [
+            "Includes all Basic plan features",
+            "10K submissions/month",
+            "Advanced fields",
+            "Advanced submissions",
+            "Email & user limits",
+            "Custom SMTP"
+          ],
+          "trial": "3-day free trial",
+          "trialDays": 3
+        },
+        {
+          "name": "Plus",
+          "priceText": "$40.99",
+          "price": 40.99,
+          "interval": "month",
+          "features": [
+            "Includes all Advanced plan features",
+            "25K Submissions",
+            "Group level conditional error handling"
+          ],
+          "trial": null,
+          "trialDays": 0
+        },
+        {
+          "name": "Enterprise",
+          "priceText": "$59.99",
+          "price": 59.99,
+          "interval": "month",
+          "features": [
+            "Includes all Advanced Plus features",
+            "Unlimited Submissions",
+            "Advanced Support",
+            "Unlimited Space"
+          ],
+          "trial": "3-day free trial",
+          "trialDays": 3
+        }
+      ]
+    },
+    {
+      "slug": "cb-advance-shopping-rules",
+      "url": "https://apps.shopify.com/cb-advance-shopping-rules",
+      "name": "Codebeans Shipping Rules Pro",
+      "rating": null,
+      "reviewCount": 0,
+      "currency": "USD",
+      "plans": [
+        {
+          "name": "FREE DEV STORE",
+          "priceText": "Free",
+          "price": 0,
+          "interval": null,
+          "features": [
+            "Free for dev stores",
+            "Free for Shopify Plus sandbox stores"
+          ],
+          "trial": null,
+          "trialDays": 0
+        },
+        {
+          "name": "Basic",
+          "priceText": "$3",
+          "price": 3,
+          "interval": "month",
+          "features": [
+            "- All Free Plan included",
+            "- Hide by cart total, country, discount",
+            "- Hide by products and weight",
+            "- Hide by customer tag and total spent",
+            "- Hide by cart currency",
+            "- Premium support"
+          ],
+          "trial": null,
+          "trialDays": 0
+        },
+        {
+          "name": "Advanced",
+          "priceText": "$5",
+          "price": 5,
+          "interval": "month",
+          "features": [
+            "- All Premium Plan included",
+            "- Hide Rates by condition",
+            "- Sort Rates by condition",
+            "- Rename Rates by condition",
+            "- Support multiple conditions at once",
+            "- Premium support"
+          ],
+          "trial": null,
+          "trialDays": 0
+        },
+        {
+          "name": "Ultimate",
+          "priceText": "$7",
+          "price": 7,
+          "interval": "month",
+          "features": [
+            "- All Advanced Plan included",
+            "- Create Shipping Rates by condition",
+            "- Show Rates based on conditions",
+            "- Support multiple rates at once",
+            "- Premium support"
+          ],
+          "trial": null,
+          "trialDays": 0
+        }
+      ]
+    },
+    {
+      "slug": "cb-automatic-discount-helper",
+      "url": "https://apps.shopify.com/cb-automatic-discount-helper",
+      "name": "CB Automatic Discount Display",
+      "rating": null,
+      "reviewCount": 0,
+      "currency": "USD",
+      "plans": [
+        {
+          "name": "Basic",
+          "priceText": "$9",
+          "price": 9,
+          "interval": "month",
+          "features": [
+            "Automatic discount price on product page",
+            "Automatic discount price on collection",
+            "Automatic discount price on Search Page",
+            "Best Discount Calculation",
+            "Bulk Sync Jobs",
+            "Easy to Use"
+          ],
+          "trial": "3-day free trial",
+          "trialDays": 3
+        }
+      ]
+    },
+    {
+      "slug": "cb-customer-cart-manager",
+      "url": "https://apps.shopify.com/cb-customer-cart-manager",
+      "name": "CB Customer Cart Manager",
+      "rating": 5.0,
+      "reviewCount": 1,
+      "currency": "USD",
+      "plans": [
+        {
+          "name": "Free to install",
+          "priceText": "Free",
+          "price": 0,
+          "interval": null,
+          "features": [
+            "Configure and test in testing mode",
+            "Test everything before going live",
+            "Zoom/Email/Chat support"
+          ],
+          "trial": null,
+          "trialDays": 0
+        },
+        {
+          "name": "Basic",
+          "priceText": "$8.99",
+          "price": 8.99,
+          "interval": "month",
+          "features": [
+            "Convert carts into draft orders",
+            "Real-time activity feed",
+            "Cart widgets for quick actions",
+            "Exit-intent popups",
+            "Track up to 500 carts per month",
+            "14-day cart history",
+            "Cart performance analytics"
+          ],
+          "trial": "3-day free trial",
+          "trialDays": 3
+        },
+        {
+          "name": "Advanced",
+          "priceText": "$37.99",
+          "price": 37.99,
+          "interval": "month",
+          "features": [
+            "All Basic Features",
+            "View and Edit cart attributes",
+            "Create Draft Order with Line Attributes",
+            "Advanced cart analytics",
+            "2.5K carts included+Further $8/500 Cart",
+            "60-day cart history"
+          ],
+          "trial": "3-day free trial",
+          "trialDays": 3
+        },
+        {
+          "name": "Enterprise",
+          "priceText": "$87.99",
+          "price": 87.99,
+          "interval": "month",
+          "features": [
+            "Predictable pricing for higher volumes",
+            "90-day cart history",
+            "Dedicated onboarding support",
+            "Priority support",
+            "Improved overage rates",
+            "7K carts included + Further $5/500 Cart"
+          ],
+          "trial": "3-day free trial",
+          "trialDays": 3
+        }
+      ]
+    },
+    {
+      "slug": "cb-gift-registry",
+      "url": "https://apps.shopify.com/cb-gift-registry",
+      "name": "Codebeans Gift Registry",
+      "rating": 5.0,
+      "reviewCount": 1,
+      "currency": "USD",
+      "plans": [
+        {
+          "name": "Basic",
+          "priceText": "$9",
+          "price": 9,
+          "interval": "month",
+          "features": [
+            "5 free registries",
+            "Customizable styling",
+            "Social media sharing",
+            "Email notifications"
+          ],
+          "trial": "3-day free trial",
+          "trialDays": 3
+        },
+        {
+          "name": "Startup",
+          "priceText": "$15",
+          "price": 15,
+          "interval": "month",
+          "features": [
+            "Basic features, plus:",
+            "25 free registries",
+            "Password-protected registries",
+            "Email sharing",
+            "Premium Support"
+          ],
+          "trial": "3-day free trial",
+          "trialDays": 3
+        },
+        {
+          "name": "Professional",
+          "priceText": "$30",
+          "price": 30,
+          "interval": "month",
+          "features": [
+            "Startup features, plus:",
+            "50 free registries",
+            "Customizable content",
+            "Stock tracking and warnings"
+          ],
+          "trial": "3-day free trial",
+          "trialDays": 3
+        },
+        {
+          "name": "Ultimate",
+          "priceText": "$40",
+          "price": 40,
+          "interval": "month",
+          "features": [
+            "Professional features, plus:",
+            "100 free registries",
+            "Custom line item property tracking",
+            "API access for custom integrations",
+            "Full Shopify Flow support for automation"
+          ],
+          "trial": "3-day free trial",
+          "trialDays": 3
+        },
+        {
+          "name": "Gold",
+          "priceText": "$99",
+          "price": 99,
+          "interval": "month",
+          "features": [
+            "Ultimate features, plus:",
+            "250 free registries"
+          ],
+          "trial": null,
+          "trialDays": 0
+        },
+        {
+          "name": "Platinum",
+          "priceText": "$129",
+          "price": 129,
+          "interval": "month",
+          "features": [
+            "Everything in Gold Plus",
+            "Unlimited Registry"
+          ],
+          "trial": null,
+          "trialDays": 0
+        }
+      ]
+    },
+    {
+      "slug": "cb-order-status-manager",
+      "url": "https://apps.shopify.com/cb-order-status-manager",
+      "name": "CB Order Status Manager",
+      "rating": null,
+      "reviewCount": 0,
+      "currency": "USD",
+      "plans": [
+        {
+          "name": "Basic",
+          "priceText": "$19",
+          "price": 19,
+          "interval": "month",
+          "features": [
+            "Unlimited statuses",
+            "300 Active orders/month",
+            "100% customizable emails",
+            "Branded order lookup form",
+            "Embed status on order lookup page",
+            "Bulk update orders",
+            "Flows"
+          ],
+          "trial": "3-day free trial",
+          "trialDays": 3
+        },
+        {
+          "name": "Advanced",
+          "priceText": "$29",
+          "price": 29,
+          "interval": "month",
+          "features": [
+            "1,000 Active orders/month",
+            "User accounts",
+            "Email from your domain",
+            "API",
+            "Webhooks",
+            "Multi language notification templates",
+            "Flows"
+          ],
+          "trial": "3-day free trial",
+          "trialDays": 3
+        },
+        {
+          "name": "Pro",
+          "priceText": "$39",
+          "price": 39,
+          "interval": "month",
+          "features": [
+            "3,000 Active orders/month",
+            "User accounts",
+            "Email from your domain",
+            "API",
+            "Webhooks",
+            "Multi language notification templates",
+            "Flows"
+          ],
+          "trial": null,
+          "trialDays": 0
+        },
+        {
+          "name": "Enterprise",
+          "priceText": "$59",
+          "price": 59,
+          "interval": "month",
+          "features": [
+            "5,000 Active orders/month",
+            "User accounts",
+            "Email from your domain",
+            "API",
+            "Webhooks",
+            "Multi language notification templates",
+            "Flows"
+          ],
+          "trial": "3-day free trial",
+          "trialDays": 3
+        }
+      ]
+    },
+    {
+      "slug": "codebeans-discount-engine",
+      "url": "https://apps.shopify.com/codebeans-discount-engine",
+      "name": "Codebeans Discount Engine",
+      "rating": 5.0,
+      "reviewCount": 1,
+      "currency": "USD",
+      "plans": [
+        {
+          "name": "Forever free",
+          "priceText": "Free",
+          "price": 0,
+          "interval": null,
+          "features": [
+            "Unlimited campaigns",
+            "Unlimited campaign types",
+            "For Development Store Only"
+          ],
+          "trial": null,
+          "trialDays": 0
+        },
+        {
+          "name": "Basic",
+          "priceText": "$20",
+          "price": 20,
+          "interval": "month",
+          "features": [
+            "Basic Features",
+            "Unlimited campaigns",
+            "Gift limit",
+            "Gift multiplier",
+            "Customer targeting: segment, location..."
+          ],
+          "trial": "3-day free trial",
+          "trialDays": 3
+        },
+        {
+          "name": "Advanced",
+          "priceText": "$60",
+          "price": 60,
+          "interval": "month",
+          "features": [
+            "1 Customization",
+            "Unlimited campaigns",
+            "Gift limit",
+            "Gift multiplier",
+            "Customer targeting: segment, location..."
+          ],
+          "trial": "3-day free trial",
+          "trialDays": 3
+        },
+        {
+          "name": "Plus",
+          "priceText": "$99",
+          "price": 99,
+          "interval": "month",
+          "features": [
+            "For All Stores",
+            "All features",
+            "3 Customization"
+          ],
+          "trial": "3-day free trial",
+          "trialDays": 3
+        }
+      ]
+    },
+    {
+      "slug": "codebeans-geolocation",
+      "url": "https://apps.shopify.com/codebeans-geolocation",
+      "name": "Codebeans Geolocation",
+      "rating": 5.0,
+      "reviewCount": 1,
+      "currency": "USD",
+      "plans": [
+        {
+          "name": "Free to install",
+          "priceText": "Free",
+          "price": 0,
+          "interval": null,
+          "features": [
+            "Configure and test in testing mode",
+            "Test everything before going live",
+            "Priority Email & Chat Support"
+          ],
+          "trial": null,
+          "trialDays": 0
+        },
+        {
+          "name": "Lite",
+          "priceText": "$9",
+          "price": 9,
+          "interval": "month",
+          "features": [
+            "Up to 100 store locations",
+            "Bulk locations import",
+            "Address Autocomplete via OpenStreetMap",
+            "Map Picker for Exact Delivery Location",
+            "Fully Customized Modal, Markers & Colors",
+            "Priority Email & Chat Support"
+          ],
+          "trial": null,
+          "trialDays": 0
+        },
+        {
+          "name": "Basic",
+          "priceText": "$20",
+          "price": 20,
+          "interval": "month",
+          "yearlyPrice": 225,
+          "notes": [
+            "or $225/year and save 6%"
+          ],
+          "features": [
+            "Everything in Lite +",
+            "Smart Google Maps Address Autocomplete",
+            "Native Shopify Plus Checkout Extension",
+            "Automatic Location Detection",
+            "Up to 1,000 store locations",
+            "Priority Email & Chat Support"
+          ],
+          "trial": "3-day free trial",
+          "trialDays": 3
+        },
+        {
+          "name": "Advance",
+          "priceText": "$30",
+          "price": 30,
+          "interval": "month",
+          "features": [
+            "Everything in basic +",
+            "Up to 2,000 store locations",
+            "Priority Email & Chat Support"
+          ],
+          "trial": "3-day free trial",
+          "trialDays": 3
+        },
+        {
+          "name": "Enterprise",
+          "priceText": "$40",
+          "price": 40,
+          "interval": "month",
+          "features": [
+            "Everything in Advance +",
+            "Up to 5,000 Store Locations",
+            "Priority Email & Chat Support"
+          ],
+          "trial": null,
+          "trialDays": 0
+        }
+      ]
+    },
+    {
+      "slug": "codebeans-onboard-b2b",
+      "url": "https://apps.shopify.com/codebeans-onboard-b2b",
+      "name": "CB B2B Partner Onboard",
+      "rating": 5.0,
+      "reviewCount": 1,
+      "currency": "USD",
+      "plans": [
+        {
+          "name": "Startup",
+          "priceText": "$50",
+          "price": 50,
+          "interval": "month",
+          "yearlyPrice": 500,
+          "notes": [
+            "or $500/year and save 17%"
+          ],
+          "features": [
+            "Shopify B2B Account Request Form",
+            "Business account approval",
+            "Portal for managing company contacts",
+            "Storefront B2B Form Embed",
+            "Manage Email notifications"
+          ],
+          "trial": "3-day free trial",
+          "trialDays": 3
+        },
+        {
+          "name": "Pro",
+          "priceText": "$120",
+          "price": 120,
+          "interval": "month",
+          "yearlyPrice": 1200,
+          "notes": [
+            "or $1,200/year and save 17%"
+          ],
+          "features": [
+            "All features from Startup",
+            "Unlimited CSV bulk import for companies",
+            "Storefront Guest Application Form"
+          ],
+          "trial": "3-day free trial",
+          "trialDays": 3
+        },
+        {
+          "name": "Advance",
+          "priceText": "$200",
+          "price": 200,
+          "interval": "month",
+          "yearlyPrice": 2000,
+          "notes": [
+            "or $2,000/year and save 17%"
+          ],
+          "features": [
+            "All features from Pro",
+            "Customer account representative",
+            "API Integration and Support",
+            "Auth0 Integration"
+          ],
+          "trial": "3-day free trial",
+          "trialDays": 3
+        }
+      ]
+    },
+    {
+      "slug": "codebeans-search-engine",
+      "url": "https://apps.shopify.com/codebeans-search-engine",
+      "name": "Codebeans Search Engine",
+      "rating": null,
+      "reviewCount": 0,
+      "currency": "USD",
+      "plans": [
+        {
+          "name": "Lite",
+          "priceText": "$29",
+          "price": 29,
+          "interval": "month",
+          "features": [
+            "1,000 products, 25,000 searches/mo",
+            "Instant search widget",
+            "Autocomplete suggestions",
+            "Typo-tolerant search",
+            "5 facet groups",
+            "Default search page template",
+            "Daily product sync",
+            "Email support in 72 hours"
+          ],
+          "trial": "7-day free trial",
+          "trialDays": 7
+        },
+        {
+          "name": "Starter",
+          "priceText": "$79",
+          "price": 79,
+          "interval": "month",
+          "features": [
+            "10,000 products, 150k searches/mo",
+            "Always-visible search bar",
+            "Visual template customizer",
+            "Card design & colour controls",
+            "Badges: New, Discount, In Stock",
+            "Synonyms for better relevance",
+            "Product metafield syncing",
+            "6-hourly sync, 48h support"
+          ],
+          "trial": "7-day free trial",
+          "trialDays": 7
+        },
+        {
+          "name": "Growth",
+          "priceText": "$149",
+          "price": 149,
+          "interval": "month",
+          "features": [
+            "50,000 products, 600k searches/mo",
+            "Collection page filtering",
+            "Custom metafield facets",
+            "Colour families & shade grouping",
+            "Boost & demote merchandising rules",
+            "Per-facet UI type control",
+            "Variant metafield syncing",
+            "Hourly sync, 24h support"
+          ],
+          "trial": null,
+          "trialDays": 0
+        },
+        {
+          "name": "Advanced",
+          "priceText": "$249",
+          "price": 249,
+          "interval": "month",
+          "features": [
+            "100,000 products, 1.2M searches/mo",
+            "Custom EJS search page templates",
+            "Custom EJS product card templates",
+            "Facet value overrides & weights",
+            "Searchable facets",
+            "Facet coverage & cardinality data",
+            "QR code & serial number search",
+            "15-minute sync"
+          ],
+          "trial": "7-day free trial",
+          "trialDays": 7
+        },
+        {
+          "name": "Scale",
+          "priceText": "$399",
+          "price": 399,
+          "interval": "month",
+          "features": [
+            "250,000 products, 2.5M searches/mo",
+            "Custom EJS collection templates",
+            "Draft, preview & publish workflow",
+            "Storefront AI shopping assistant",
+            "Relevance tuning controls",
+            "Hidden resources & custom CSS",
+            "Unlimited languages & markets",
+            "Near real-time sync"
+          ],
+          "trial": "7-day free trial",
+          "trialDays": 7
+        },
+        {
+          "name": "Plus",
+          "priceText": "$599",
+          "price": 599,
+          "interval": "month",
+          "features": [
+            "750,000 products, 7M searches/mo",
+            "In-app AI settings assistant",
+            "MCP integration: Claude & Cursor",
+            "Scoped, expiring MCP tokens",
+            "Bloomreach migration assistance",
+            "Private Slack support channel",
+            "4-hour support response",
+            "99.9% uptime SLA"
+          ],
+          "trial": "7-day free trial",
+          "trialDays": 7
+        },
+        {
+          "name": "Enterprise",
+          "priceText": "$999",
+          "price": 999,
+          "interval": "month",
+          "features": [
+            "2M products, 20M searches/mo",
+            "Multi-store shared configuration",
+            "Dedicated account manager",
+            "1-hour support response",
+            "4 services hours per month",
+            "Staging environment + QBRs",
+            "Unlimited MCP access tokens"
+          ],
+          "trial": "7-day free trial",
+          "trialDays": 7
+        },
+        {
+          "name": "Dedicated",
+          "priceText": "$1,499",
+          "price": 1499,
+          "interval": "month",
+          "features": [
+            "10M products, 100M searches/mo",
+            "Single-tenant isolated cluster",
+            "Choose your data residency region",
+            "Custom ranking model training",
+            "Private VPC & IP allow-listing",
+            "16 services hours per month",
+            "Real-time catalogue sync"
+          ],
+          "trial": "7-day free trial",
+          "trialDays": 7
+        }
+      ]
+    },
+    {
+      "slug": "notifylyst",
+      "url": "https://apps.shopify.com/notifylyst",
+      "name": "CB Notifylyst ",
+      "rating": null,
+      "reviewCount": 0,
+      "currency": "USD",
+      "plans": [
+        {
+          "name": "Developer",
+          "priceText": "$0",
+          "price": 0,
+          "interval": "month",
+          "notes": [
+            "Plus usage charges"
+          ],
+          "usageCharges": [
+            {
+              "meter_name": "Wallet TOPUP",
+              "billing_scheme_type": "VolumePrice",
+              "charge_as": "COST_PER_UNIT",
+              "tiers": [
+                {
+                  "amount_per_unit": 1.0,
+                  "amount": 0.0
+                }
+              ]
+            }
+          ],
+          "features": [
+            "20 Email & Push Notifications",
+            "WhatsApp & SMS Notifications Pay-Per-Use",
+            "Multi-Step Campaigns (4 Steps)",
+            "Notify-me Form Builder (Multi-Language)",
+            "Advance Customer Analytics & Reports",
+            "REST API, Shopify Flow & Webhooks",
+            "AI MCP Integration",
+            "Priority Support"
+          ],
+          "trial": null,
+          "trialDays": 0
+        },
+        {
+          "name": "Lite Plan",
+          "priceText": "$19",
+          "price": 19,
+          "interval": "month",
+          "notes": [
+            "Plus usage charges"
+          ],
+          "usageCharges": [
+            {
+              "meter_name": "Wallet TOPUP",
+              "billing_scheme_type": "VolumePrice",
+              "charge_as": "COST_PER_UNIT",
+              "tiers": [
+                {
+                  "amount_per_unit": 1.0,
+                  "amount": 0.0
+                }
+              ]
+            }
+          ],
+          "features": [
+            "500 Email & Push Notifications",
+            "WhatsApp & SMS Notifications Pay-Per-Use",
+            "Multi-Step Campaigns (2 Steps)",
+            "Notify-me Form Builder (Multi-Language)",
+            "Advance Customer Analytics & Reports",
+            "REST API, Shopify Flow & Webhooks",
+            "AI MCP Integration",
+            "Priority Support"
+          ],
+          "trial": "5-day free trial",
+          "trialDays": 5
+        },
+        {
+          "name": "Startup",
+          "priceText": "$29",
+          "price": 29,
+          "interval": "month",
+          "notes": [
+            "Plus usage charges"
+          ],
+          "usageCharges": [
+            {
+              "meter_name": "Wallet TOPUP",
+              "billing_scheme_type": "VolumePrice",
+              "charge_as": "COST_PER_UNIT",
+              "tiers": [
+                {
+                  "amount_per_unit": 1.0,
+                  "amount": 0.0
+                }
+              ]
+            }
+          ],
+          "features": [
+            "1000 Email & Push Notifications",
+            "WhatsApp & SMS Notifications Pay-Per-Use",
+            "Multi-Step Campaigns (3 Steps)",
+            "Notify-me Form Builder (Multi-Language)",
+            "Advance Customer Analytics & Reports",
+            "REST API, Shopify Flow & Webhooks",
+            "AI MCP Integration",
+            "Priority Support"
+          ],
+          "trial": "5-day free trial",
+          "trialDays": 5
+        },
+        {
+          "name": "Small Business",
+          "priceText": "$49",
+          "price": 49,
+          "interval": "month",
+          "notes": [
+            "Plus usage charges"
+          ],
+          "usageCharges": [
+            {
+              "meter_name": "Wallet TOPUP",
+              "billing_scheme_type": "VolumePrice",
+              "charge_as": "COST_PER_UNIT",
+              "tiers": [
+                {
+                  "amount_per_unit": 1.0,
+                  "amount": 0.0
+                }
+              ]
+            }
+          ],
+          "features": [
+            "2000 Email & Push Notifications",
+            "WhatsApp & SMS Notifications Pay-Per-Use",
+            "Multi-Step Campaigns (3 Steps)",
+            "Notify-me Form Builder (Multi-Language)",
+            "Advance Customer Analytics & Reports",
+            "REST API, Shopify Flow & Webhooks",
+            "AI MCP Integration",
+            "Priority Support"
+          ],
+          "trial": "5-day free trial",
+          "trialDays": 5
+        },
+        {
+          "name": "Medium",
+          "priceText": "$69",
+          "price": 69,
+          "interval": "month",
+          "notes": [
+            "Plus usage charges"
+          ],
+          "usageCharges": [
+            {
+              "meter_name": "Wallet TOPUP",
+              "billing_scheme_type": "VolumePrice",
+              "charge_as": "COST_PER_UNIT",
+              "tiers": [
+                {
+                  "amount_per_unit": 1.0,
+                  "amount": 0.0
+                }
+              ]
+            }
+          ],
+          "features": [
+            "3500 Email & Push Notifications",
+            "WhatsApp & SMS Notifications Pay-Per-Use",
+            "Multi-Step Campaigns (4 Steps)",
+            "Notify-me Form Builder (Multi-Language)",
+            "Advance Customer Analytics & Reports",
+            "REST API, Shopify Flow & Webhooks",
+            "AI MCP Integration",
+            "Priority Support"
+          ],
+          "trial": "5-day free trial",
+          "trialDays": 5
+        },
+        {
+          "name": "Enterprise",
+          "priceText": "$99",
+          "price": 99,
+          "interval": "month",
+          "notes": [
+            "Plus usage charges"
+          ],
+          "usageCharges": [
+            {
+              "meter_name": "Wallet TOPUP",
+              "billing_scheme_type": "VolumePrice",
+              "charge_as": "COST_PER_UNIT",
+              "tiers": [
+                {
+                  "amount_per_unit": 1.0,
+                  "amount": 0.0
+                }
+              ]
+            }
+          ],
+          "features": [
+            "Unlimited Email & Push Notifications",
+            "WhatsApp & SMS Notifications Pay-Per-Use",
+            "Multi-Step Campaigns (4 Steps)",
+            "Notify-me Form Builder (Multi-Language)",
+            "Advance Customer Analytics & Reports",
+            "REST API, Shopify Flow & Webhooks",
+            "AI MCP Integration",
+            "Priority Support"
+          ],
+          "trial": "5-day free trial",
+          "trialDays": 5
+        },
+        {
+          "name": "Dedicated",
+          "priceText": "$125",
+          "price": 125,
+          "interval": "month",
+          "notes": [
+            "Plus usage charges"
+          ],
+          "usageCharges": [
+            {
+              "meter_name": "Wallet TOPUP",
+              "billing_scheme_type": "VolumePrice",
+              "charge_as": "COST_PER_UNIT",
+              "tiers": [
+                {
+                  "amount_per_unit": 1.0,
+                  "amount": 0.0
+                }
+              ]
+            }
+          ],
+          "features": [
+            "Everything in Dedicated",
+            "Notify-me Custom Form Builder",
+            "Early Access Features"
+          ],
+          "trial": null,
+          "trialDays": 0
+        }
+      ]
+    },
+    {
+      "slug": "shopy-advance-payment-rules",
+      "url": "https://apps.shopify.com/shopy-advance-payment-rules",
+      "name": "Codebeans Payment Rules Pro",
+      "rating": 5.0,
+      "reviewCount": 1,
+      "currency": "USD",
+      "plans": [
+        {
+          "name": "FREE DEV STORE",
+          "priceText": "Free",
+          "price": 0,
+          "interval": null,
+          "features": [
+            "Free for dev stores",
+            "Free for Shopify Plus sandbox stores",
+            "- 5 customized rules",
+            "- Hide unlimited payments",
+            "- Hide by cart total",
+            "- Hide by country"
+          ],
+          "trial": null,
+          "trialDays": 0
+        },
+        {
+          "name": "Basic",
+          "priceText": "$3",
+          "price": 3,
+          "interval": "month",
+          "yearlyPrice": 30,
+          "notes": [
+            "or $30/year and save 17%"
+          ],
+          "features": [
+            "- All Free Plan included",
+            "- Hide by cart total, country, discount",
+            "- Hide by products & weight",
+            "- Hide by customer tag and total spent",
+            "- Hide by shipping and cart currency"
+          ],
+          "trial": "5-day free trial",
+          "trialDays": 5
+        },
+        {
+          "name": "Advanced",
+          "priceText": "$5",
+          "price": 5,
+          "interval": "month",
+          "yearlyPrice": 45,
+          "notes": [
+            "or $45/year and save 25%"
+          ],
+          "features": [
+            "- All Premium Plan Included",
+            "- Hide by multiple conditions at once",
+            "- Conditions with AND/OR logic",
+            "- Live Chat Support"
+          ],
+          "trial": "5-day free trial",
+          "trialDays": 5
+        },
+        {
+          "name": "Ultimate",
+          "priceText": "$7",
+          "price": 7,
+          "interval": "month",
+          "yearlyPrice": 70,
+          "notes": [
+            "or $70/year and save 17%"
+          ],
+          "features": [
+            "- All Advanced Plan Included",
+            "- Country Mapper",
+            "- Live Chat Support"
+          ],
+          "trial": "5-day free trial",
+          "trialDays": 5
+        }
+      ]
+    },
+    {
+      "slug": "shopy-bulk-image-upload",
+      "url": "https://apps.shopify.com/shopy-bulk-image-upload",
+      "name": "Codebeans Bulk Image Upload",
+      "rating": 5.0,
+      "reviewCount": 1,
+      "currency": "USD",
+      "plans": [
+        {
+          "name": "Free",
+          "priceText": "Free",
+          "price": 0,
+          "interval": null,
+          "features": [
+            "Bulk Upload up to 25 images",
+            "Match by SKU,Barcode, Title or METAFIELD",
+            "Seamlessly Replace Existing Images",
+            "Google Drive Integration"
+          ],
+          "trial": null,
+          "trialDays": 0
+        },
+        {
+          "name": "Premium",
+          "priceText": "$69",
+          "price": 69,
+          "interval": "month",
+          "yearlyPrice": 750,
+          "notes": [
+            "or $750/year and save 9%"
+          ],
+          "features": [
+            "For Shopify Basic, Grow & Lower Plans",
+            "Unlimited Bulk Product Image Uploads",
+            "Match by SKU,Barcode, Title or METAFIELD",
+            "Seamlessly Replace Existing Images",
+            "Personalized Initial Setup Guidance",
+            "Priority Access in Upload Queue",
+            "Tailored, Store Specific Image Matching"
+          ],
+          "trial": null,
+          "trialDays": 0
+        },
+        {
+          "name": "Premium PRO",
+          "priceText": "$99",
+          "price": 99,
+          "interval": "month",
+          "yearlyPrice": 1000,
+          "notes": [
+            "or $1,000/year and save 16%"
+          ],
+          "features": [
+            "For Shopify Advanced Plans",
+            "Unlimited Bulk Product Image Uploads",
+            "Match by SKU,Barcode, Title or METAFIELD",
+            "Seamlessly Replace Existing Images",
+            "Personalized Initial Setup Guidance",
+            "Priority Access in Upload Queue",
+            "Tailored, Store Specific Image Matching"
+          ],
+          "trial": null,
+          "trialDays": 0
+        },
+        {
+          "name": "Enterprise",
+          "priceText": "$149",
+          "price": 149,
+          "interval": "month",
+          "yearlyPrice": 1500,
+          "notes": [
+            "or $1,500/year and save 16%"
+          ],
+          "features": [
+            "For Shopify Plus Plans",
+            "Unlimited Bulk Product Image Uploads",
+            "Match by SKU,Barcode, Title or METAFIELD",
+            "Seamlessly Replace Existing Images",
+            "Personalized Initial Setup Guidance",
+            "Priority Access in Upload Queue",
+            "Tailored, Store Specific Image Matching"
+          ],
+          "trial": null,
+          "trialDays": 0
+        }
+      ]
+    },
+    {
+      "slug": "shopy-checkout-favicon",
+      "url": "https://apps.shopify.com/shopy-checkout-favicon",
+      "name": "CB Checkout Rules",
+      "rating": null,
+      "reviewCount": 0,
+      "currency": "USD",
+      "plans": [
+        {
+          "name": "Pro Plan",
+          "priceText": "$12.50",
+          "price": 12.5,
+          "interval": "month",
+          "yearlyPrice": 120,
+          "notes": [
+            "or $120/year and save 20%"
+          ],
+          "features": [
+            "Manage your Checkout Favicon Profiles",
+            "Upload or Replace Your Checkout Favicon",
+            "Checkout Favicon Preview",
+            "Upload Favicon Images By URL or File",
+            "Checkout Validation Rules"
+          ],
+          "trial": null,
+          "trialDays": 0
+        }
+      ]
+    },
+    {
+      "slug": "shopy-geolocation",
+      "url": "https://apps.shopify.com/shopy-geolocation",
+      "name": "Shopy Geolocation",
+      "rating": null,
+      "reviewCount": 0,
+      "currency": "USD",
+      "plans": [
+        {
+          "name": "Basic",
+          "priceText": "$20",
+          "price": 20,
+          "interval": "month",
+          "yearlyPrice": 225,
+          "notes": [
+            "or $225/year and save 6%"
+          ],
+          "features": [],
+          "trial": "3-day free trial",
+          "trialDays": 3
+        }
+      ]
+    },
+    {
+      "slug": "shopy-payment-rules",
+      "url": "https://apps.shopify.com/shopy-payment-rules",
+      "name": " Codebeans Payment Rules",
+      "rating": null,
+      "reviewCount": 0,
+      "currency": "USD",
+      "plans": [
+        {
+          "name": "Pro Plan",
+          "priceText": "$20",
+          "price": 20,
+          "interval": "month",
+          "yearlyPrice": 200,
+          "notes": [
+            "or $200/year and save 17%"
+          ],
+          "features": [
+            "Hide payment methods",
+            "Rename payment methods",
+            "Sort payment methods",
+            "Rules for DTC and B2B Customers",
+            "B2B Company Specific Rules",
+            "Prior Support",
+            "3 Days Trial"
+          ],
+          "trial": "3-day free trial",
+          "trialDays": 3
+        }
+      ]
+    },
+    {
+      "slug": "shopy-shipping-rules",
+      "url": "https://apps.shopify.com/shopy-shipping-rules",
+      "name": "Codebeans Shipping Rules",
+      "rating": null,
+      "reviewCount": 0,
+      "currency": "USD",
+      "plans": [
+        {
+          "name": "Pro Plan",
+          "priceText": "$20",
+          "price": 20,
+          "interval": "month",
+          "yearlyPrice": 200,
+          "notes": [
+            "or $200/year and save 17%"
+          ],
+          "features": [
+            "Make shipping rules for every segment",
+            "Set rules for each company with ease",
+            "Easily manage all shipping options",
+            "Easily update shipping rule titles",
+            "Hide, sort, and rename—made simple"
+          ],
+          "trial": "3-day free trial",
+          "trialDays": 3
+        }
+      ]
+    },
+    {
+      "slug": "shopy-wishlyst",
+      "url": "https://apps.shopify.com/shopy-wishlyst",
+      "name": "Codebeans Wishlyst",
+      "rating": 5.0,
+      "reviewCount": 1,
+      "currency": "USD",
+      "plans": [
+        {
+          "name": "Basic",
+          "priceText": "$9.99",
+          "price": 9.99,
+          "interval": "month",
+          "features": [
+            "500 Lifetime Wishlist Actions (No reset)",
+            "Simple, code-free setup",
+            "Easy customization",
+            "Share Wishlist via social media",
+            "Basic reports",
+            "Save for later"
+          ],
+          "trial": "3-day free trial",
+          "trialDays": 3
+        },
+        {
+          "name": "Startup",
+          "priceText": "$19.99",
+          "price": 19.99,
+          "interval": "month",
+          "features": [
+            "1000 Wishlist Actions/mo",
+            "Automate Wishlist reminders",
+            "Multi-language support",
+            "Share Wishlist via email"
+          ],
+          "trial": "3-day free trial",
+          "trialDays": 3
+        },
+        {
+          "name": "Professional",
+          "priceText": "$59.99",
+          "price": 59.99,
+          "interval": "month",
+          "features": [
+            "10,000 Wishlist actions/mo",
+            "Support for Shopify Plus"
+          ],
+          "trial": "3-day free trial",
+          "trialDays": 3
+        },
+        {
+          "name": "Ultimate",
+          "priceText": "$99.99",
+          "price": 99.99,
+          "interval": "month",
+          "features": [
+            "25,000 Wishlist actions/mo",
+            "REST & Javascript APIs access",
+            "Support for Shopify Plus"
+          ],
+          "trial": null,
+          "trialDays": 0
+        }
+      ]
+    }
+  ]
+}
