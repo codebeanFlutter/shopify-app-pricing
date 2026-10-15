@@ -1,5 +1,9 @@
 # Pricing changes
 
+## 2026-10-15T12:20:14+00:00
+
+- CB Notifylyst: new plan 'testing' ($20)
+
 ## 2026-10-15T08:29:23+00:00
 
 - Codebeans Discount Engine Pro: name CB Automatic Discount Display -> Codebeans Discount Engine Pro

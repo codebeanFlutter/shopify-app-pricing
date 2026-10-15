@@ -1,6 +1,6 @@
 {
   "source": "https://apps.shopify.com/partners/codebeans-private-limited3",
-  "updatedAt": "2026-10-15T08:29:23+00:00",
+  "updatedAt": "2026-10-15T12:20:14+00:00",
   "appCount": 18,
   "apps": [
     {
@@ -867,6 +867,18 @@
             "REST API, Shopify Flow & Webhooks",
             "AI MCP Integration",
             "Priority Support"
+          ],
+          "trial": "5-day free trial",
+          "trialDays": 5
+        },
+        {
+          "name": "testing",
+          "priceText": "$20",
+          "price": 20,
+          "interval": "month",
+          "features": [
+            "Everything in Dedicated",
+            "Notify-me Custom Form Builder"
           ],
           "trial": "5-day free trial",
           "trialDays": 5
