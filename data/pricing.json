@@ -1,6 +1,6 @@
 {
   "source": "https://apps.shopify.com/partners/codebeans-private-limited3",
-  "updatedAt": "2026-10-10T06:33:56+00:00",
+  "updatedAt": "2026-10-15T08:29:23+00:00",
   "appCount": 18,
   "apps": [
     {
@@ -163,7 +163,7 @@
     {
       "slug": "cb-automatic-discount-helper",
       "url": "https://apps.shopify.com/cb-automatic-discount-helper",
-      "name": "CB Automatic Discount Display",
+      "name": "Codebeans Discount Engine Pro",
       "rating": null,
       "reviewCount": 0,
       "currency": "USD",

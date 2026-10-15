@@ -1,5 +1,9 @@
 # Pricing changes
 
+## 2026-10-15T08:29:23+00:00
+
+- Codebeans Discount Engine Pro: name CB Automatic Discount Display -> Codebeans Discount Engine Pro
+
 ## 2026-10-10T06:33:56+00:00
 
 - CB Notifylyst: name CB Notifylyst  -> CB Notifylyst
