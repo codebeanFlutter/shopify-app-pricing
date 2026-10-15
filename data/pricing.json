@@ -1,6 +1,6 @@
 {
   "source": "https://apps.shopify.com/partners/codebeans-private-limited3",
-  "updatedAt": "2026-10-15T12:20:14+00:00",
+  "updatedAt": "2026-10-15T13:10:27+00:00",
   "appCount": 18,
   "apps": [
     {
@@ -425,6 +425,35 @@
           ],
           "trial": "3-day free trial",
           "trialDays": 3
+        }
+      ]
+    },
+    {
+      "slug": "codebeans-checkout-rules-pro",
+      "url": "https://apps.shopify.com/codebeans-checkout-rules-pro",
+      "name": "CB Checkout Rules",
+      "rating": null,
+      "reviewCount": 0,
+      "currency": "USD",
+      "plans": [
+        {
+          "name": "Pro Plan",
+          "priceText": "$12.50",
+          "price": 12.5,
+          "interval": "month",
+          "yearlyPrice": 120,
+          "notes": [
+            "or $120/year and save 20%"
+          ],
+          "features": [
+            "Manage your Checkout Favicon Profiles",
+            "Upload or Replace Your Checkout Favicon",
+            "Checkout Favicon Preview",
+            "Upload Favicon Images By URL or File",
+            "Checkout Validation Rules"
+          ],
+          "trial": null,
+          "trialDays": 0
         }
       ]
     },
@@ -872,18 +901,6 @@
           "trialDays": 5
         },
         {
-          "name": "testing",
-          "priceText": "$20",
-          "price": 20,
-          "interval": "month",
-          "features": [
-            "Everything in Dedicated",
-            "Notify-me Custom Form Builder"
-          ],
-          "trial": "5-day free trial",
-          "trialDays": 5
-        },
-        {
           "name": "Startup",
           "priceText": "$29",
           "price": 29,
@@ -1211,35 +1228,6 @@
             "Personalized Initial Setup Guidance",
             "Priority Access in Upload Queue",
             "Tailored, Store Specific Image Matching"
-          ],
-          "trial": null,
-          "trialDays": 0
-        }
-      ]
-    },
-    {
-      "slug": "shopy-checkout-favicon",
-      "url": "https://apps.shopify.com/shopy-checkout-favicon",
-      "name": "CB Checkout Rules",
-      "rating": null,
-      "reviewCount": 0,
-      "currency": "USD",
-      "plans": [
-        {
-          "name": "Pro Plan",
-          "priceText": "$12.50",
-          "price": 12.5,
-          "interval": "month",
-          "yearlyPrice": 120,
-          "notes": [
-            "or $120/year and save 20%"
-          ],
-          "features": [
-            "Manage your Checkout Favicon Profiles",
-            "Upload or Replace Your Checkout Favicon",
-            "Checkout Favicon Preview",
-            "Upload Favicon Images By URL or File",
-            "Checkout Validation Rules"
           ],
           "trial": null,
           "trialDays": 0

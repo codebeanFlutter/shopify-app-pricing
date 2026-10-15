@@ -1,5 +1,11 @@
 # Pricing changes
 
+## 2026-10-15T13:10:27+00:00
+
+- New app: CB Checkout Rules (1 plans)
+- App removed from partner page: CB Checkout Rules
+- CB Notifylyst: plan removed 'testing'
+
 ## 2026-10-15T12:20:14+00:00
 
 - CB Notifylyst: new plan 'testing' ($20)
