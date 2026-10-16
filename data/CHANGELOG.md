@@ -1,5 +1,10 @@
 # Pricing changes
 
+## 2026-10-16T08:22:17+00:00
+
+- New app: Codebeans Discount Engine Pro (1 plans)
+- App removed from partner page: Codebeans Discount Engine Pro
+
 ## 2026-10-15T13:10:27+00:00
 
 - New app: CB Checkout Rules (1 plans)

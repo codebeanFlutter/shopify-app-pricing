@@ -1,6 +1,6 @@
 {
   "source": "https://apps.shopify.com/partners/codebeans-private-limited3",
-  "updatedAt": "2026-10-15T13:10:27+00:00",
+  "updatedAt": "2026-10-16T08:22:17+00:00",
   "appCount": 18,
   "apps": [
     {
@@ -157,32 +157,6 @@
           ],
           "trial": null,
           "trialDays": 0
-        }
-      ]
-    },
-    {
-      "slug": "cb-automatic-discount-helper",
-      "url": "https://apps.shopify.com/cb-automatic-discount-helper",
-      "name": "Codebeans Discount Engine Pro",
-      "rating": null,
-      "reviewCount": 0,
-      "currency": "USD",
-      "plans": [
-        {
-          "name": "Basic",
-          "priceText": "$9",
-          "price": 9,
-          "interval": "month",
-          "features": [
-            "Automatic discount price on product page",
-            "Automatic discount price on collection",
-            "Automatic discount price on Search Page",
-            "Best Discount Calculation",
-            "Bulk Sync Jobs",
-            "Easy to Use"
-          ],
-          "trial": "3-day free trial",
-          "trialDays": 3
         }
       ]
     },
@@ -517,6 +491,32 @@
             "For All Stores",
             "All features",
             "3 Customization"
+          ],
+          "trial": "3-day free trial",
+          "trialDays": 3
+        }
+      ]
+    },
+    {
+      "slug": "codebeans-discount-engine-pro",
+      "url": "https://apps.shopify.com/codebeans-discount-engine-pro",
+      "name": "Codebeans Discount Engine Pro",
+      "rating": null,
+      "reviewCount": 0,
+      "currency": "USD",
+      "plans": [
+        {
+          "name": "Basic",
+          "priceText": "$9",
+          "price": 9,
+          "interval": "month",
+          "features": [
+            "Automatic discount price on product page",
+            "Automatic discount price on collection",
+            "Automatic discount price on Search Page",
+            "Best Discount Calculation",
+            "Bulk Sync Jobs",
+            "Easy to Use"
           ],
           "trial": "3-day free trial",
           "trialDays": 3
