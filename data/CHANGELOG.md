@@ -1,5 +1,9 @@
 # Pricing changes
 
+## 2026-10-22T08:48:05+00:00
+
+- Codebeans Gift Registry: reviewCount 1 -> 2
+
 ## 2026-10-16T08:22:17+00:00
 
 - New app: Codebeans Discount Engine Pro (1 plans)
