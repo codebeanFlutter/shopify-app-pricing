@@ -1,5 +1,9 @@
 # Pricing changes
 
+## 2026-10-23T13:52:23+00:00
+
+- CB Customer Cart Manager: plan removed 'test'
+
 ## 2026-10-23T13:44:53+00:00
 
 - CB Customer Cart Manager: new plan 'test' ($45)
