@@ -1,5 +1,9 @@
 # Pricing changes
 
+## 2026-10-23T13:43:31+00:00
+
+- CB Customer Cart Manager: new plan 'testing' ($45)
+
 ## 2026-10-22T08:48:05+00:00
 
 - Codebeans Gift Registry: reviewCount 1 -> 2
