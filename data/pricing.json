@@ -1,6 +1,6 @@
 {
   "source": "https://apps.shopify.com/partners/codebeans-private-limited3",
-  "updatedAt": "2026-10-23T13:43:31+00:00",
+  "updatedAt": "2026-10-23T13:44:53+00:00",
   "appCount": 18,
   "apps": [
     {
@@ -215,11 +215,13 @@
           "trialDays": 3
         },
         {
-          "name": "testing",
+          "name": "test",
           "priceText": "$45",
           "price": 45,
           "interval": "month",
-          "features": [],
+          "features": [
+            "Zoom/Email/Chat support"
+          ],
           "trial": "3-day free trial",
           "trialDays": 3
         },
