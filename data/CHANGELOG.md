@@ -1,5 +1,9 @@
 # Pricing changes
 
+## 2026-10-27T09:13:17+00:00
+
+- Codebeans Gift Registry: reviewCount 2 -> 3
+
 ## 2026-10-23T13:52:23+00:00
 
 - CB Customer Cart Manager: plan removed 'test'
