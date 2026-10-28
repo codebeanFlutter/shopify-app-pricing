@@ -1,5 +1,24 @@
 # Pricing changes
 
+## 2026-10-28T09:54:53+00:00
+
+- Codebeans Shipping Rules Pro: rating None -> 5.0
+- Codebeans Shipping Rules Pro: reviewCount 0 -> 1
+- CB Customer Cart Manager: reviewCount 1 -> 2
+- CB Order Status Manager: rating None -> 5.0
+- CB Order Status Manager: reviewCount 0 -> 1
+- CB Checkout Rules: rating None -> 5.0
+- CB Checkout Rules: reviewCount 0 -> 2
+- Codebeans Discount Engine Pro: rating None -> 5.0
+- Codebeans Discount Engine Pro: reviewCount 0 -> 1
+- Codebeans Geolocation: reviewCount 1 -> 2
+- Codebeans Search Engine: rating None -> 5.0
+- Codebeans Search Engine: reviewCount 0 -> 1
+- CB Notifylyst: rating None -> 5.0
+- CB Notifylyst: reviewCount 0 -> 1
+- Codebeans Payment Rules Pro: reviewCount 1 -> 2
+- Codebeans Bulk Image Upload: reviewCount 1 -> 2
+
 ## 2026-10-27T09:13:17+00:00
 
 - Codebeans Gift Registry: reviewCount 2 -> 3
