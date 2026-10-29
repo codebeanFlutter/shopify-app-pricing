@@ -1,6 +1,6 @@
 {
   "source": "https://apps.shopify.com/partners/codebeans-private-limited3",
-  "updatedAt": "2026-10-28T09:54:53+00:00",
+  "updatedAt": "2026-10-29T10:16:49+00:00",
   "appCount": 18,
   "apps": [
     {
@@ -8,7 +8,7 @@
       "url": "https://apps.shopify.com/cb-advance-form-builder",
       "name": "Codebeans Form Builder Pro",
       "rating": 5.0,
-      "reviewCount": 1,
+      "reviewCount": 2,
       "currency": "USD",
       "plans": [
         {
@@ -96,7 +96,7 @@
       "url": "https://apps.shopify.com/cb-advance-shopping-rules",
       "name": "Codebeans Shipping Rules Pro",
       "rating": 5.0,
-      "reviewCount": 1,
+      "reviewCount": 2,
       "currency": "USD",
       "plans": [
         {
@@ -329,7 +329,7 @@
       "url": "https://apps.shopify.com/cb-order-status-manager",
       "name": "CB Order Status Manager",
       "rating": 5.0,
-      "reviewCount": 1,
+      "reviewCount": 2,
       "currency": "USD",
       "plans": [
         {
@@ -436,7 +436,7 @@
       "url": "https://apps.shopify.com/codebeans-discount-engine",
       "name": "Codebeans Discount Engine",
       "rating": 5.0,
-      "reviewCount": 1,
+      "reviewCount": 2,
       "currency": "USD",
       "plans": [
         {
@@ -502,7 +502,7 @@
       "url": "https://apps.shopify.com/codebeans-discount-engine-pro",
       "name": "Codebeans Discount Engine Pro",
       "rating": 5.0,
-      "reviewCount": 1,
+      "reviewCount": 2,
       "currency": "USD",
       "plans": [
         {
@@ -613,7 +613,7 @@
       "url": "https://apps.shopify.com/codebeans-onboard-b2b",
       "name": "CB B2B Partner Onboard",
       "rating": 5.0,
-      "reviewCount": 1,
+      "reviewCount": 2,
       "currency": "USD",
       "plans": [
         {
@@ -677,7 +677,7 @@
       "url": "https://apps.shopify.com/codebeans-search-engine",
       "name": "Codebeans Search Engine",
       "rating": 5.0,
-      "reviewCount": 1,
+      "reviewCount": 2,
       "currency": "USD",
       "plans": [
         {
@@ -829,7 +829,7 @@
       "url": "https://apps.shopify.com/notifylyst",
       "name": "CB Notifylyst",
       "rating": 5.0,
-      "reviewCount": 1,
+      "reviewCount": 2,
       "currency": "USD",
       "plans": [
         {
@@ -1261,8 +1261,8 @@
       "slug": "shopy-payment-rules",
       "url": "https://apps.shopify.com/shopy-payment-rules",
       "name": "Codebeans Payment Rules",
-      "rating": null,
-      "reviewCount": 0,
+      "rating": 5.0,
+      "reviewCount": 1,
       "currency": "USD",
       "plans": [
         {
@@ -1292,8 +1292,8 @@
       "slug": "shopy-shipping-rules",
       "url": "https://apps.shopify.com/shopy-shipping-rules",
       "name": "Codebeans Shipping Rules",
-      "rating": null,
-      "reviewCount": 0,
+      "rating": 5.0,
+      "reviewCount": 1,
       "currency": "USD",
       "plans": [
         {
@@ -1322,7 +1322,7 @@
       "url": "https://apps.shopify.com/shopy-wishlyst",
       "name": "Codebeans Wishlyst",
       "rating": 5.0,
-      "reviewCount": 1,
+      "reviewCount": 2,
       "currency": "USD",
       "plans": [
         {

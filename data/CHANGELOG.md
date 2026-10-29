@@ -1,5 +1,21 @@
 # Pricing changes
 
+## 2026-10-29T10:16:49+00:00
+
+- Codebeans Form Builder Pro: reviewCount 1 -> 2
+- Codebeans Shipping Rules Pro: reviewCount 1 -> 2
+- CB Order Status Manager: reviewCount 1 -> 2
+- Codebeans Discount Engine: reviewCount 1 -> 2
+- Codebeans Discount Engine Pro: reviewCount 1 -> 2
+- CB B2B Partner Onboard: reviewCount 1 -> 2
+- Codebeans Search Engine: reviewCount 1 -> 2
+- CB Notifylyst: reviewCount 1 -> 2
+- Codebeans Payment Rules: rating None -> 5.0
+- Codebeans Payment Rules: reviewCount 0 -> 1
+- Codebeans Shipping Rules: rating None -> 5.0
+- Codebeans Shipping Rules: reviewCount 0 -> 1
+- Codebeans Wishlyst: reviewCount 1 -> 2
+
 ## 2026-10-28T09:54:53+00:00
 
 - Codebeans Shipping Rules Pro: rating None -> 5.0
