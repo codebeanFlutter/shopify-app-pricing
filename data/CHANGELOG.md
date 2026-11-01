@@ -1,5 +1,10 @@
 # Pricing changes
 
+## 2026-11-01T10:41:41+00:00
+
+- App removed from partner page: Codebeans Payment Rules
+- App removed from partner page: Codebeans Shipping Rules
+
 ## 2026-10-29T10:16:49+00:00
 
 - Codebeans Form Builder Pro: reviewCount 1 -> 2

@@ -1,7 +1,7 @@
 {
   "source": "https://apps.shopify.com/partners/codebeans-private-limited3",
-  "updatedAt": "2026-10-29T10:16:49+00:00",
-  "appCount": 18,
+  "updatedAt": "2026-11-01T10:41:41+00:00",
+  "appCount": 16,
   "apps": [
     {
       "slug": "cb-advance-form-builder",
@@ -1252,66 +1252,6 @@
             "or $225/year and save 6%"
           ],
           "features": [],
-          "trial": "3-day free trial",
-          "trialDays": 3
-        }
-      ]
-    },
-    {
-      "slug": "shopy-payment-rules",
-      "url": "https://apps.shopify.com/shopy-payment-rules",
-      "name": "Codebeans Payment Rules",
-      "rating": 5.0,
-      "reviewCount": 1,
-      "currency": "USD",
-      "plans": [
-        {
-          "name": "Pro Plan",
-          "priceText": "$20",
-          "price": 20,
-          "interval": "month",
-          "yearlyPrice": 200,
-          "notes": [
-            "or $200/year and save 17%"
-          ],
-          "features": [
-            "Hide payment methods",
-            "Rename payment methods",
-            "Sort payment methods",
-            "Rules for DTC and B2B Customers",
-            "B2B Company Specific Rules",
-            "Prior Support",
-            "3 Days Trial"
-          ],
-          "trial": "3-day free trial",
-          "trialDays": 3
-        }
-      ]
-    },
-    {
-      "slug": "shopy-shipping-rules",
-      "url": "https://apps.shopify.com/shopy-shipping-rules",
-      "name": "Codebeans Shipping Rules",
-      "rating": 5.0,
-      "reviewCount": 1,
-      "currency": "USD",
-      "plans": [
-        {
-          "name": "Pro Plan",
-          "priceText": "$20",
-          "price": 20,
-          "interval": "month",
-          "yearlyPrice": 200,
-          "notes": [
-            "or $200/year and save 17%"
-          ],
-          "features": [
-            "Make shipping rules for every segment",
-            "Set rules for each company with ease",
-            "Easily manage all shipping options",
-            "Easily update shipping rule titles",
-            "Hide, sort, and rename—made simple"
-          ],
           "trial": "3-day free trial",
           "trialDays": 3
         }
