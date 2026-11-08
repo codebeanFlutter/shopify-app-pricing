@@ -1,9 +1,9 @@
 {
-  "lastRunAt": "2026-11-01T10:41:41+00:00",
+  "lastRunAt": "2026-11-08T10:38:22+00:00",
   "status": "success",
   "appCount": 16,
   "planCount": 65,
-  "changed": true,
-  "changeCount": 2,
+  "changed": false,
+  "changeCount": 0,
   "dataUpdatedAt": "2026-11-01T10:41:41+00:00"
 }
