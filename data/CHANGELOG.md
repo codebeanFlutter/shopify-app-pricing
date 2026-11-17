@@ -1,5 +1,10 @@
 # Pricing changes
 
+## 2026-11-17T12:13:05+00:00
+
+- Codebeans Geolocation / Basic: yearlyPrice 225 -> None
+- Codebeans Geolocation / Basic: notes ['or $225/year and save 6%'] -> None
+
 ## 2026-11-01T10:41:41+00:00
 
 - App removed from partner page: Codebeans Payment Rules

@@ -1,6 +1,6 @@
 {
   "source": "https://apps.shopify.com/partners/codebeans-private-limited3",
-  "updatedAt": "2026-11-01T10:41:41+00:00",
+  "updatedAt": "2026-11-17T12:13:05+00:00",
   "appCount": 16,
   "apps": [
     {
@@ -565,10 +565,6 @@
           "priceText": "$20",
           "price": 20,
           "interval": "month",
-          "yearlyPrice": 225,
-          "notes": [
-            "or $225/year and save 6%"
-          ],
           "features": [
             "Everything in Lite +",
             "Smart Google Maps Address Autocomplete",
